@@ -1,0 +1,14 @@
+{
+    "name": "@tada5hi/eslint-config-nuxt-typescript",
+    "version": "0.0.14",
+    "description": "",
+    "license": "MIT",
+    "main": "index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "@nuxtjs/eslint-config-typescript": "^7.0.2",
+        "@tada5hi/eslint-config-typescript": "^0.0.19"
+    }
+}
